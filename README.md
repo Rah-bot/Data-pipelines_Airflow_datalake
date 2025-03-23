@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on to create and explore simple llm models for daily task automation.<br>
+DevOps & QA Automation expert with 5+ years' experience in CI/CD, AWS, Kubernetes, Pytest, and Postman. Skilled in optimizing deployments and testing.<br>
 
 
 # 💻 Tech Stack:
